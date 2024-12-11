@@ -1,1 +1,1 @@
-# Game-Theory-Rock-Paper-Scissor-
+# Rock-Paper-Scissor-Lizard-Spock (Game Theory)
